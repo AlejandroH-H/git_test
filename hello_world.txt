@@ -1,1 +1,3 @@
 Hola mundo, este archivo está creado en mi primer repositorio de GitHub ;)
+Ahora está siendo modificado para tenerlo en el área de preparación junto al
+README :D
